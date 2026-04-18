@@ -47,6 +47,7 @@ The repository provides code implementations for evaluating American-style deriv
 ## 🛠 Installation
 To run the implementations, install the required dependencies:<p>
 ```pip install numpy scipy pyopencl matplotlib```
+For CUDA version, user is able to run the implementation on Google Colab, with the code implemented. 
 
 ## 🧩 Usage
 Run the model for American option pricing:<p>
@@ -61,7 +62,7 @@ If you use this code, please cite the following papers:
 **Li, L. X., Chen, R. R., & Fabozzi, F. J. (2024).** GPU-Accelerated American Option Pricing: The Case of the Longstaff-Schwartz Monte Carlo Model. *Journal of Derivatives.*
 
 ## 📧 Contact
-For questions or collaborations, please contact **Leon Xing Li** at [leonchao@yeah.net](mailto:leonchao@yeah.net).
+For questions or collaborations, please contact **Leon Xing Li** at [leonchao@yeah.net](mailto:leonchao@yeah.net) and **Xiaohu Zhang** at [email](mailto:xiaohu.zhang19@gmail.com) 
 
 ## 📝 License
 MIT License - See LICENSE for details.
